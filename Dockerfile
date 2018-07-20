@@ -1,4 +1,4 @@
-FROM java:8
+FROM 180.200.2.42:5000/java:8
 MAINTAINER <alauda> 
 
 # 添加代码jar包
